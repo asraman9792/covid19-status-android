@@ -24,16 +24,7 @@ An android app to track COVID-19 status in India and around the world.
  * [https://api.covid19india.org/](https://api.covid19india.org/)
  * [https://corona.lmao.ninja/](https://corona.lmao.ninja/)
 
-**How to contribute?**
-* Fork this repo.
-* Push changes to forked repo.
-* Make sure everything works.
-* Create a pull request.
 
-**Credits: -**
-* [Laura Reen](https://iconscout.com/contributors/laura-reen/icons) for app icon.  
-* [Flaticon](https://www.flaticon.com/) for social media icons.  
-* [Ashish Vaish](https://www.facebook.com/ASHVA1SH) for his help in fixing bugs.
 
 **Libraries used: -** 
 * [Glide](https://github.com/bumptech/glide)
